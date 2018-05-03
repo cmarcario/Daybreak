@@ -1,0 +1,1739 @@
+﻿Log file open, 05/02/18 10:13:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Daybreak
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1697226924) SRandInit(1697226924).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.691368
+LogD3D11RHI: Aftermath initialized
+LogConfig: Warning: Failed to saved backup for config[Engine]
+LogConfig: Warning: Failed to saved backup for config[Input]
+LogConfig: Warning: Failed to saved backup for config[EditorPerProjectUserSettings]
+LogConfig: Warning: Failed to saved backup for config[EditorSettings]
+LogConfig: Warning: Failed to saved backup for config[EditorKeyBindings]
+LogConfig: Warning: Failed to saved backup for config[Compat]
+LogConfig: Warning: Failed to saved backup for config[Lightmass]
+LogConfig: Warning: Failed to saved backup for config[Scalability]
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestruction.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestructionEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogConfig: Warning: Failed to saved backup for config[ApexDestruction]
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogConfig: Warning: Failed to saved backup for config[OculusVR]
+LogPluginManager: Mounting plugin PhysXVehicles
+LogConfig: Warning: Failed to saved backup for config[PhysXVehicles]
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.02-14.13.54:135][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.02-14.13.54:135][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.02-14.13.54:189][  0]LogConfig: Warning: Failed to saved backup for config[DeviceProfiles]
+[2018.05.02-14.13.54:288][  0]LogInit: Computer: DESKTOP-7UB2I6B
+[2018.05.02-14.13.54:288][  0]LogInit: User: balog
+[2018.05.02-14.13.54:288][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.05.02-14.13.54:288][  0]LogInit: High frequency timer resolution =2.531253 MHz
+[2018.05.02-14.13.54:288][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2018.05.02-14.13.54:288][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.02-14.13.54:288][  0]LogMemory: Process Physical Memory: 271.52 MB used, 271.52 MB peak
+[2018.05.02-14.13.54:288][  0]LogMemory: Process Virtual Memory: 269.16 MB used, 269.16 MB peak
+[2018.05.02-14.13.54:288][  0]LogMemory: Physical Memory: 2996.69 MB used,  4989.37 MB free, 7986.05 MB total
+[2018.05.02-14.13.54:288][  0]LogMemory: Virtual Memory: 678.07 MB used,  4989.37 MB free, 134217728.00 MB total
+[2018.05.02-14.13.56:264][  0]LogInit: Using OS detected language (en-US).
+[2018.05.02-14.13.56:264][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.02-14.13.56:695][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.02-14.13.57:810][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.02-14.14.04:931][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.02-14.14.04:973][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940M' (Feature Level 11_0)
+[2018.05.02-14.14.04:973][  0]LogD3D11RHI:       2019/0/3993 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.02-14.14.05:012][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2018.05.02-14.14.05:012][  0]LogD3D11RHI:       128/0/3993 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.05.02-14.14.05:016][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.02-14.14.05:016][  0]LogD3D11RHI:       0/0/3993 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.02-14.14.05:016][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.02-14.14.05:042][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.02-14.14.05:043][  0]LogD3D11RHI:     GPU DeviceId: 0x1347 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.02-14.14.05:043][  0]LogWindows: EnumDisplayDevices:
+[2018.05.02-14.14.05:043][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2018.05.02-14.14.05:043][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.05.02-14.14.05:043][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.05.02-14.14.05:044][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.02-14.14.05:044][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940M
+[2018.05.02-14.14.05:044][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.02-14.14.05:044][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.02-14.14.05:044][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2018.05.02-14.14.05:174][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.02-14.14.05:561][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.02-14.14.05:744][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Intermediate/Shaders/WorkingDirectory/9148/).
+[2018.05.02-14.14.05:744][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/balog/AppData/Local/Temp/UnrealShaderWorkingDir/A4CCB7B1455CD94F266EF2B3C8285B2A/'.
+[2018.05.02-14.14.05:760][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.02-14.14.13:794][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.02-14.14.13:889][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.02-14.14.13:995][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.02-14.14.14:141][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.02-14.14.14:276][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.02-14.14.14:393][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.02-14.14.14:523][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.02-14.14.14:612][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.02-14.14.14:715][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.02-14.14.14:828][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.02-14.14.14:962][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.02-14.14.15:089][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.02-14.14.15:238][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.02-14.14.15:380][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.02-14.14.15:647][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.02-14.14.15:647][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.02-14.14.15:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.02-14.14.15:949][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.02-14.14.16:248][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.02-14.14.16:309][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.02-14.14.16:537][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.02-14.14.16:704][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.02-14.14.16:805][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.02-14.14.17:015][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.02-14.14.17:015][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.02-14.14.19:028][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.02-14.14.22:745][  0]LogDerivedDataCache: Loaded boot cache 3.68s 78MB C:/Users/balog/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.02-14.14.22:745][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/balog/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.05.02-14.14.22:745][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.02-14.14.22:745][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.02-14.14.22:745][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.02-14.14.22:745][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.02-14.14.22:983][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.02-14.14.22:996][  0]LogDerivedDataCache: Using Local data cache path C:/Users/balog/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.02-14.14.23:102][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.02-14.14.23:185][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.02-14.14.23:254][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.02-14.14.23:260][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.02-14.14.31:386][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.02-14.14.34:681][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.02-14.14.34:852][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.02-14.14.34:873][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.02-14.14.34:873][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.02-14.14.34:873][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.02-14.14.34:873][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.02-14.14.35:683][  0]LogNetVersion: Daybreak , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2052610314)
+[2018.05.02-14.14.38:326][  0]LogAssetRegistry: FAssetRegistry took 0.0349 seconds to start up
+[2018.05.02-14.14.39:274][  0]LogConfig: Warning: Failed to saved backup for config[GameplayTagsList]
+[2018.05.02-14.14.50:529][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Intermediate/AssetRegistryCache/5a627529.bin
+[2018.05.02-14.14.50:597][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Intermediate/AssetRegistryCache/1d5167fa.bin
+[2018.05.02-14.14.50:680][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.189510 seconds
+[2018.05.02-14.14.50:700][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.05.02-14.14.50:700][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.05.02-14.14.50:700][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.02-14.14.50:811][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.02-14.16.00:444][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.02-14.16.00:765][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.02-14.16.08:004][  0]LogConfig: Warning: Failed to saved backup for config[TranslationPickerSettings]
+[2018.05.02-14.16.08:898][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.02-14.16.11:356][  0]LogConfig: Warning: Failed to saved backup for config[SourceControlSettings]
+[2018.05.02-14.16.11:423][  0]SourceControl: Source control is disabled
+[2018.05.02-14.16.11:450][  0]SourceControl: Source control is disabled
+[2018.05.02-14.16.12:184][  0]SourceControl: Source control is disabled
+[2018.05.02-14.16.12:658][  0]SourceControl: Source control is disabled
+[2018.05.02-14.16.18:651][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.02-14.16.19:505][  0]LogOcInput: OculusInput pre-init called
+[2018.05.02-14.16.21:874][  0]LogEngine: Initializing Engine...
+[2018.05.02-14.16.21:973][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.02-14.16.22:739][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.02-14.16.22:740][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.02-14.16.24:484][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.02-14.16.25:173][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-14.16.25:295][  0]LogInit: FAudioDevice initialized.
+[2018.05.02-14.16.26:657][  0]LogDerivedDataCache: Saved boot cache 1.36s 78MB C:/Users/balog/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.02-14.16.26:677][  0]LogInit: Texture streaming: Enabled
+[2018.05.02-14.16.27:582][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.02-14.16.29:058][  0]LogInit: Transaction tracking system initialized
+[2018.05.02-14.16.33:284][  0]BlueprintLog: New page: Editor Load
+[2018.05.02-14.16.46:896][  0]LocalizationService: Localization service is disabled
+[2018.05.02-14.16.53:317][  0]LogConsoleResponse: Display: 
+[2018.05.02-14.16.57:654][  0]LogFileCache: Scanning file cache for directory 'C:/Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/' took 0.04s
+[2018.05.02-14.16.57:654][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.02-14.16.57:654][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.02-14.16.57:686][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.02-14.17.05:891][  0]SourceControl: Source control is disabled
+[2018.05.02-14.17.06:076][  0]Cmd: MAP LOAD FILE="../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.02-14.17.06:076][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2018.05.02-14.17.06:123][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.02-14.17.06:261][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 138.013ms to complete.
+[2018.05.02-14.17.06:261][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.296
+[2018.05.02-14.17.12:807][  0]LogCollectionManager: Loaded 0 collections in 0.004076 seconds
+[2018.05.02-14.17.14:680][  0]LogFileCache: Scanning file cache for directory 'C:/Users/balog/Documents/GitHub/Daybreak/Daybreak/Saved/Collections/' took 0.01s
+[2018.05.02-14.17.14:680][  0]LogFileCache: Scanning file cache for directory 'C:/Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Developers/balog/Collections/' took 0.01s
+[2018.05.02-14.17.14:680][  0]LogFileCache: Scanning file cache for directory 'C:/Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Collections/' took 0.01s
+[2018.05.02-14.17.14:680][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.02-14.17.14:916][  0]LogContentBrowser: Native class hierarchy populated in 0.0639 seconds. Added 2372 classes and 524 folders.
+[2018.05.02-14.17.15:313][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.02-14.17.20:148][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.05.02-14.17.20:350][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.05.02-14.17.21:542][  0]LogSlate: Took 0.015072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.02-14.17.21:627][  0]LogSlate: Took 0.051545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.02-14.17.21:896][  0]LogSlate: Took 0.233470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.02-14.17.22:926][  0]LogRenderer: Reallocating scene render targets to support 788x412 Format 10 NumSamples 1 (Frame:1).
+[2018.05.02-14.17.25:083][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.05.02-14.17.25:083][  0]LogLoad: (Engine Initialization) Total time: 241.43 seconds
+[2018.05.02-14.17.25:083][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.02-14.17.25:083][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.05.02-14.17.25:581][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.02-14.17.25:954][  1]LogSlate: Took 0.021150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.02-14.17.27:171][  5]LogAssetRegistry: Asset discovery search completed in 168.8673 seconds
+[2018.05.02-14.17.27:199][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.02-14.17.27:199][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000134 seconds (updated 0 objects)
+[2018.05.02-14.31.23:199][897]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.02-14.31.23:466][897]LogLinker: Warning: Can't find file '/Game/SoulCity/Environment/Materials/Sky/M_SkyClouds'
+[2018.05.02-14.31.23:466][897]LogLinker: Warning: Can't find file for asset '/Game/SoulCity/Environment/Materials/Sky/M_SkyClouds' while loading ../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset.
+[2018.05.02-14.31.23:466][897]LoadErrors: Error: /Engine/EngineSky/BP_Sky_Sphere : Can't find file for asset. /Game/SoulCity/Environment/Materials/Sky/M_SkyClouds
+[2018.05.02-14.31.23:468][897]LogLinker: Warning: Can't find file '/Game/SoulCity/Environment/Materials/Sky/M_SkyClouds'
+[2018.05.02-14.31.23:468][897]LogLinker: Warning: Can't find file for asset '/Game/SoulCity/Environment/Materials/Sky/M_SkyClouds' while loading ../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset.
+[2018.05.02-14.31.23:468][897]LogLinker: Warning: Can't find file '/Game/SoulCity/Environment/Materials/Sky/SM_SkySphere_Cloudy'
+[2018.05.02-14.31.23:468][897]LogLinker: Warning: Can't find file for asset '/Game/SoulCity/Environment/Materials/Sky/SM_SkySphere_Cloudy' while loading ../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset.
+[2018.05.02-14.31.23:468][897]LoadErrors: Error: /Engine/EngineSky/BP_Sky_Sphere : Can't find file for asset. /Game/SoulCity/Environment/Materials/Sky/SM_SkySphere_Cloudy
+[2018.05.02-14.31.23:469][897]LogLinker: Warning: Can't find file '/Game/SoulCity/Environment/Materials/Sky/SM_SkySphere_Cloudy'
+[2018.05.02-14.31.23:469][897]LogLinker: Warning: Can't find file for asset '/Game/SoulCity/Environment/Materials/Sky/SM_SkySphere_Cloudy' while loading ../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset.
+[2018.05.02-14.31.23:471][897]LogLinker: Warning: Can't find file '/Game/SoulCity/Environment/Materials/Sky/M_SkyClouds'
+[2018.05.02-14.31.23:471][897]LogLinker: Warning: Can't find file for asset '/Game/SoulCity/Environment/Materials/Sky/M_SkyClouds' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap.
+[2018.05.02-14.31.23:471][897]LoadErrors: Error: /Game/Maps/Cave : Can't find file for asset. /Game/SoulCity/Environment/Materials/Sky/M_SkyClouds
+[2018.05.02-14.31.23:471][897]LogLinker: Warning: Can't find file '/Game/SoulCity/Environment/Materials/Sky/M_SkyClouds'
+[2018.05.02-14.31.23:471][897]LogLinker: Warning: Can't find file for asset '/Game/SoulCity/Environment/Materials/Sky/M_SkyClouds' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap.
+[2018.05.02-14.31.23:471][897]LogLinker: Warning: Can't find file '/Game/SoulCity/Environment/Materials/Sky/SM_SkySphere_Cloudy'
+[2018.05.02-14.31.23:472][897]LogLinker: Warning: Can't find file for asset '/Game/SoulCity/Environment/Materials/Sky/SM_SkySphere_Cloudy' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap.
+[2018.05.02-14.31.23:472][897]LoadErrors: Error: /Game/Maps/Cave : Can't find file for asset. /Game/SoulCity/Environment/Materials/Sky/SM_SkySphere_Cloudy
+[2018.05.02-14.31.23:472][897]LogLinker: Warning: Can't find file '/Game/SoulCity/Environment/Materials/Sky/SM_SkySphere_Cloudy'
+[2018.05.02-14.31.23:472][897]LogLinker: Warning: Can't find file for asset '/Game/SoulCity/Environment/Materials/Sky/SM_SkySphere_Cloudy' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap.
+[2018.05.02-14.31.23:481][897]LogLinker: Warning: Can't find file '/Game/SoulCity/Environment/Materials/Sky/SM_SkySphere_Cloudy'
+[2018.05.02-14.31.23:481][897]LoadErrors: Failed to load /Game/SoulCity/Environment/Materials/Sky/SM_SkySphere_Cloudy.SM_SkySphere_Cloudy Referenced by StaticMeshComponent_12
+[2018.05.02-14.31.23:482][897]LogLinker: Warning: Can't find file for asset '/Game/SoulCity/Environment/Materials/Sky/SM_SkySphere_Cloudy' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap.
+[2018.05.02-14.31.23:482][897]LogLinker: Warning: Can't find file '/Game/SoulCity/Environment/Materials/Sky/M_SkyClouds'
+[2018.05.02-14.31.23:482][897]LoadErrors: Failed to load /Game/SoulCity/Environment/Materials/Sky/M_SkyClouds.M_SkyClouds Referenced by StaticMeshComponent_12
+[2018.05.02-14.31.23:482][897]LogLinker: Warning: Can't find file for asset '/Game/SoulCity/Environment/Materials/Sky/M_SkyClouds' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap.
+[2018.05.02-14.31.23:681][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall'
+[2018.05.02-14.31.23:681][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_Cliffs_CliffWall_03a.uasset.
+[2018.05.02-14.31.23:681][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_Cliffs_CliffWall_03a : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall
+[2018.05.02-14.31.23:681][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall'
+[2018.05.02-14.31.23:681][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_Cliffs_CliffWall_03a.uasset.
+[2018.05.02-14.31.23:684][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall'
+[2018.05.02-14.31.23:684][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_Cliffs_CliffWall_05b.uasset.
+[2018.05.02-14.31.23:684][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_Cliffs_CliffWall_05b : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall
+[2018.05.02-14.31.23:684][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall'
+[2018.05.02-14.31.23:684][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_Cliffs_CliffWall_05b.uasset.
+[2018.05.02-14.31.23:686][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall'
+[2018.05.02-14.31.23:686][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_Cliffs_CliffWall_06b.uasset.
+[2018.05.02-14.31.23:687][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_Cliffs_CliffWall_06b : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall
+[2018.05.02-14.31.23:687][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall'
+[2018.05.02-14.31.23:687][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_Cliffs_CliffWall_06b.uasset.
+[2018.05.02-14.31.23:689][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall'
+[2018.05.02-14.31.23:689][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_Cliffs_CliffWall_06c.uasset.
+[2018.05.02-14.31.23:689][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_Cliffs_CliffWall_06c : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall
+[2018.05.02-14.31.23:690][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall'
+[2018.05.02-14.31.23:690][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_Cliffs_CliffWall_06c.uasset.
+[2018.05.02-14.31.23:692][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope'
+[2018.05.02-14.31.23:692][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_SnowSlope_3.uasset.
+[2018.05.02-14.31.23:692][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_SnowSlope_3 : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope
+[2018.05.02-14.31.23:692][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope'
+[2018.05.02-14.31.23:693][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_SnowSlope_3.uasset.
+[2018.05.02-14.31.23:695][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope'
+[2018.05.02-14.31.23:695][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_SnowSlope_5.uasset.
+[2018.05.02-14.31.23:695][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_SnowSlope_5 : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope
+[2018.05.02-14.31.23:695][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope'
+[2018.05.02-14.31.23:696][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_SnowSlope_5.uasset.
+[2018.05.02-14.31.23:698][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope'
+[2018.05.02-14.31.23:698][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_SnowSlope_B.uasset.
+[2018.05.02-14.31.23:698][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_SnowSlope_B : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope
+[2018.05.02-14.31.23:699][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope'
+[2018.05.02-14.31.23:699][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_SnowSlope_B.uasset.
+[2018.05.02-14.31.23:701][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope'
+[2018.05.02-14.31.23:701][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_SnowSlope_organicShape.uasset.
+[2018.05.02-14.31.23:701][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_SnowSlope_organicShape : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope
+[2018.05.02-14.31.23:701][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope'
+[2018.05.02-14.31.23:701][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Cliffs/StaticMesh/SM_Env_Ice_SnowSlope_organicShape.uasset.
+[2018.05.02-14.31.23:704][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_LargeRock'
+[2018.05.02-14.31.23:704][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_LargeRock' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Cliffs/StaticMesh/SM_FlameDungeon_largeRocks.uasset.
+[2018.05.02-14.31.23:704][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Cliffs/StaticMesh/SM_FlameDungeon_largeRocks : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_LargeRock
+[2018.05.02-14.31.23:704][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_LargeRock'
+[2018.05.02-14.31.23:704][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_LargeRock' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Cliffs/StaticMesh/SM_FlameDungeon_largeRocks.uasset.
+[2018.05.02-14.31.23:707][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.23:708][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Deco/StaticMesh/SM_Ice_Icicle_Full_01.uasset.
+[2018.05.02-14.31.23:708][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Deco/StaticMesh/SM_Ice_Icicle_Full_01 : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging
+[2018.05.02-14.31.23:708][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.23:708][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Deco/StaticMesh/SM_Ice_Icicle_Full_01.uasset.
+[2018.05.02-14.31.23:710][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.23:710][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Deco/StaticMesh/SM_Ice_Icicle_Full_02.uasset.
+[2018.05.02-14.31.23:711][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Deco/StaticMesh/SM_Ice_Icicle_Full_02 : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging
+[2018.05.02-14.31.23:711][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.23:711][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Deco/StaticMesh/SM_Ice_Icicle_Full_02.uasset.
+[2018.05.02-14.31.23:713][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.23:713][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Deco/StaticMesh/SM_Ice_Icicle_Full_03.uasset.
+[2018.05.02-14.31.23:714][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Deco/StaticMesh/SM_Ice_Icicle_Full_03 : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging
+[2018.05.02-14.31.23:714][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.23:714][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Deco/StaticMesh/SM_Ice_Icicle_Full_03.uasset.
+[2018.05.02-14.31.23:716][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.23:716][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Deco/StaticMesh/SM_Ice_Icicle_Full_04.uasset.
+[2018.05.02-14.31.23:716][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Deco/StaticMesh/SM_Ice_Icicle_Full_04 : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging
+[2018.05.02-14.31.23:716][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.23:717][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Deco/StaticMesh/SM_Ice_Icicle_Full_04.uasset.
+[2018.05.02-14.31.23:719][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.23:719][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Deco/StaticMesh/SM_Ice_Icicle_Full_05.uasset.
+[2018.05.02-14.31.23:719][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Deco/StaticMesh/SM_Ice_Icicle_Full_05 : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging
+[2018.05.02-14.31.23:719][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.23:719][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Deco/StaticMesh/SM_Ice_Icicle_Full_05.uasset.
+[2018.05.02-14.31.23:722][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.23:722][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Deco/StaticMesh/SM_IceSpikes_01.uasset.
+[2018.05.02-14.31.23:722][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Deco/StaticMesh/SM_IceSpikes_01 : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging
+[2018.05.02-14.31.23:722][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.23:722][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Deco/StaticMesh/SM_IceSpikes_01.uasset.
+[2018.05.02-14.31.23:724][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.23:724][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Deco/StaticMesh/SM_IceWall_Base_01.uasset.
+[2018.05.02-14.31.23:725][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Deco/StaticMesh/SM_IceWall_Base_01 : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging
+[2018.05.02-14.31.23:725][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.23:725][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Deco/StaticMesh/SM_IceWall_Base_01.uasset.
+[2018.05.02-14.31.23:727][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.23:727][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Deco/StaticMesh/SM_IceWall_Half_01.uasset.
+[2018.05.02-14.31.23:727][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Deco/StaticMesh/SM_IceWall_Half_01 : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging
+[2018.05.02-14.31.23:727][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.23:727][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Deco/StaticMesh/SM_IceWall_Half_01.uasset.
+[2018.05.02-14.31.23:730][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.23:730][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Deco/StaticMesh/SM_IceWallSpikes.uasset.
+[2018.05.02-14.31.23:730][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Deco/StaticMesh/SM_IceWallSpikes : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging
+[2018.05.02-14.31.23:730][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.23:730][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Deco/StaticMesh/SM_IceWallSpikes.uasset.
+[2018.05.02-14.31.23:732][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.23:732][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Deco/StaticMesh/SM_IceWallSpikes_Broken.uasset.
+[2018.05.02-14.31.23:732][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Deco/StaticMesh/SM_IceWallSpikes_Broken : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging
+[2018.05.02-14.31.23:732][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.23:733][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Deco/StaticMesh/SM_IceWallSpikes_Broken.uasset.
+[2018.05.02-14.31.23:735][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce'
+[2018.05.02-14.31.23:735][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Mountain/StaticMesh/SM_HangingIce00.uasset.
+[2018.05.02-14.31.23:735][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Mountain/StaticMesh/SM_HangingIce00 : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce
+[2018.05.02-14.31.23:736][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce'
+[2018.05.02-14.31.23:736][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Mountain/StaticMesh/SM_HangingIce00.uasset.
+[2018.05.02-14.31.23:738][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce'
+[2018.05.02-14.31.23:738][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Mountain/StaticMesh/SM_HangingIce01.uasset.
+[2018.05.02-14.31.23:738][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Mountain/StaticMesh/SM_HangingIce01 : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce
+[2018.05.02-14.31.23:738][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce'
+[2018.05.02-14.31.23:738][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Mountain/StaticMesh/SM_HangingIce01.uasset.
+[2018.05.02-14.31.23:740][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce'
+[2018.05.02-14.31.23:740][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Mountain/StaticMesh/SM_HangingIce02.uasset.
+[2018.05.02-14.31.23:740][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Mountain/StaticMesh/SM_HangingIce02 : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce
+[2018.05.02-14.31.23:740][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce'
+[2018.05.02-14.31.23:740][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Mountain/StaticMesh/SM_HangingIce02.uasset.
+[2018.05.02-14.31.23:742][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce'
+[2018.05.02-14.31.23:742][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Mountain/StaticMesh/SM_HangingIce03.uasset.
+[2018.05.02-14.31.23:742][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Mountain/StaticMesh/SM_HangingIce03 : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce
+[2018.05.02-14.31.23:742][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce'
+[2018.05.02-14.31.23:742][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Mountain/StaticMesh/SM_HangingIce03.uasset.
+[2018.05.02-14.31.23:744][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_JaggedRock'
+[2018.05.02-14.31.23:744][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_JaggedRock' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Mountain/StaticMesh/SM_JaggedRocks01.uasset.
+[2018.05.02-14.31.23:745][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Mountain/StaticMesh/SM_JaggedRocks01 : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_JaggedRock
+[2018.05.02-14.31.23:745][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_JaggedRock'
+[2018.05.02-14.31.23:745][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_JaggedRock' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Mountain/StaticMesh/SM_JaggedRocks01.uasset.
+[2018.05.02-14.31.23:747][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_IceMountain_Boulder'
+[2018.05.02-14.31.23:747][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_IceMountain_Boulder' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Mountain/StaticMesh/SM_SnowBoulder.uasset.
+[2018.05.02-14.31.23:747][897]LoadErrors: Error: /Game/Icelands/Env_Ice_Mountain/StaticMesh/SM_SnowBoulder : Can't find file for asset. /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_IceMountain_Boulder
+[2018.05.02-14.31.23:747][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_IceMountain_Boulder'
+[2018.05.02-14.31.23:747][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_IceMountain_Boulder' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Icelands/Env_Ice_Mountain/StaticMesh/SM_SnowBoulder.uasset.
+[2018.05.02-14.31.24:018][897]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.02-14.31.24:132][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.24:132][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging.M_IceHanging Referenced by SM_IceSpikes_01
+[2018.05.02-14.31.24:132][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading NULL.
+[2018.05.02-14.31.24:133][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.24:133][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging.M_IceHanging Referenced by SM_Ice_Icicle_Full_05
+[2018.05.02-14.31.24:133][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading NULL.
+[2018.05.02-14.31.24:133][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.24:134][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging.M_IceHanging Referenced by SM_Ice_Icicle_Full_04
+[2018.05.02-14.31.24:134][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading NULL.
+[2018.05.02-14.31.24:134][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.24:134][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging.M_IceHanging Referenced by SM_Ice_Icicle_Full_03
+[2018.05.02-14.31.24:134][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading NULL.
+[2018.05.02-14.31.24:135][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.24:135][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging.M_IceHanging Referenced by SM_Ice_Icicle_Full_02
+[2018.05.02-14.31.24:135][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading NULL.
+[2018.05.02-14.31.24:136][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.24:136][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging.M_IceHanging Referenced by SM_Ice_Icicle_Full_01
+[2018.05.02-14.31.24:136][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading NULL.
+[2018.05.02-14.31.24:137][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_LargeRock'
+[2018.05.02-14.31.24:137][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_LargeRock.M_Env_LargeRock Referenced by SM_FlameDungeon_largeRocks
+[2018.05.02-14.31.24:137][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_LargeRock' while loading NULL.
+[2018.05.02-14.31.24:137][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope'
+[2018.05.02-14.31.24:137][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope.M_Env_Ice_SnowSlope Referenced by SM_Env_Ice_SnowSlope_organicShape
+[2018.05.02-14.31.24:138][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope' while loading NULL.
+[2018.05.02-14.31.24:138][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope'
+[2018.05.02-14.31.24:138][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope.M_Env_Ice_SnowSlope Referenced by SM_Env_Ice_SnowSlope_B
+[2018.05.02-14.31.24:139][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope' while loading NULL.
+[2018.05.02-14.31.24:139][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope'
+[2018.05.02-14.31.24:139][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope.M_Env_Ice_SnowSlope Referenced by SM_Env_Ice_SnowSlope_5
+[2018.05.02-14.31.24:140][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope' while loading NULL.
+[2018.05.02-14.31.24:140][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope'
+[2018.05.02-14.31.24:140][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope.M_Env_Ice_SnowSlope Referenced by SM_Env_Ice_SnowSlope_3
+[2018.05.02-14.31.24:141][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_SnowSlope' while loading NULL.
+[2018.05.02-14.31.24:141][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall'
+[2018.05.02-14.31.24:141][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall.M_Env_Ice_Cliffs_TilingCliffWall Referenced by SM_Env_Ice_Cliffs_CliffWall_06c
+[2018.05.02-14.31.24:141][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall' while loading NULL.
+[2018.05.02-14.31.24:142][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall'
+[2018.05.02-14.31.24:142][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall.M_Env_Ice_Cliffs_TilingCliffWall Referenced by SM_Env_Ice_Cliffs_CliffWall_06b
+[2018.05.02-14.31.24:142][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall' while loading NULL.
+[2018.05.02-14.31.24:143][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall'
+[2018.05.02-14.31.24:143][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall.M_Env_Ice_Cliffs_TilingCliffWall Referenced by SM_Env_Ice_Cliffs_CliffWall_05b
+[2018.05.02-14.31.24:143][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall' while loading NULL.
+[2018.05.02-14.31.24:144][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall'
+[2018.05.02-14.31.24:144][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall.M_Env_Ice_Cliffs_TilingCliffWall Referenced by SM_Env_Ice_Cliffs_CliffWall_03a
+[2018.05.02-14.31.24:144][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/Materials/M_Env_Ice_Cliffs_TilingCliffWall' while loading NULL.
+[2018.05.02-14.31.24:254][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_IceMountain_Boulder'
+[2018.05.02-14.31.24:255][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_IceMountain_Boulder.M_IceMountain_Boulder Referenced by SM_SnowBoulder
+[2018.05.02-14.31.24:255][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_IceMountain_Boulder' while loading NULL.
+[2018.05.02-14.31.24:256][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_JaggedRock'
+[2018.05.02-14.31.24:256][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_JaggedRock.M_JaggedRock Referenced by SM_JaggedRocks01
+[2018.05.02-14.31.24:257][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_JaggedRock' while loading NULL.
+[2018.05.02-14.31.24:257][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce'
+[2018.05.02-14.31.24:258][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce.M_HangingIce Referenced by SM_HangingIce03
+[2018.05.02-14.31.24:258][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce' while loading NULL.
+[2018.05.02-14.31.24:258][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce'
+[2018.05.02-14.31.24:258][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce.M_HangingIce Referenced by SM_HangingIce02
+[2018.05.02-14.31.24:258][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce' while loading NULL.
+[2018.05.02-14.31.24:259][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce'
+[2018.05.02-14.31.24:259][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce.M_HangingIce Referenced by SM_HangingIce01
+[2018.05.02-14.31.24:259][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce' while loading NULL.
+[2018.05.02-14.31.24:260][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce'
+[2018.05.02-14.31.24:260][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce.M_HangingIce Referenced by SM_HangingIce00
+[2018.05.02-14.31.24:260][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/Materials/M_HangingIce' while loading NULL.
+[2018.05.02-14.31.24:261][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.24:261][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging.M_IceHanging Referenced by SM_IceWallSpikes_Broken
+[2018.05.02-14.31.24:261][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading NULL.
+[2018.05.02-14.31.24:262][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.24:262][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging.M_IceHanging Referenced by SM_IceWallSpikes
+[2018.05.02-14.31.24:262][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading NULL.
+[2018.05.02-14.31.24:263][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.24:263][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging.M_IceHanging Referenced by SM_IceWall_Half_01
+[2018.05.02-14.31.24:263][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading NULL.
+[2018.05.02-14.31.24:264][897]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging'
+[2018.05.02-14.31.24:264][897]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging.M_IceHanging Referenced by SM_IceWall_Base_01
+[2018.05.02-14.31.24:264][897]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/Materials/M_IceHanging' while loading NULL.
+[2018.05.02-14.31.28:075][897]LogAIModule: Creating AISystem for world Cave
+[2018.05.02-14.31.28:212][897]Cmd: MAP LOAD FILE="../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.02-14.31.28:212][897]LightingResults: New page: Lighting Build
+[2018.05.02-14.31.28:265][897]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2018.05.02-14.31.28:266][897]LoadErrors: New page: Loading map: Cave.umap
+[2018.05.02-14.31.28:267][897]MapCheck: New page: Map Check
+[2018.05.02-14.31.28:267][897]LightingResults: New page: Lighting Build
+[2018.05.02-14.31.28:347][897]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.02-14.31.28:449][897]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.02-14.31.28:547][897]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 97.976ms to complete.
+[2018.05.02-14.31.28:547][897]LogFileHelpers: Loading map 'Cave' took 0.336
+[2018.05.02-14.32.06:932][279]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/balog/Desktop/Stomp.fbx)
+[2018.05.02-14.32.07:196][279]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.05.02-14.32.07:196][279]LogFbx: ItemName: NodeAttribute, ItemCount : 65
+[2018.05.02-14.32.07:196][279]LogFbx: ItemName: Model, ItemCount : 72
+[2018.05.02-14.32.07:196][279]LogFbx: ItemName: Material, ItemCount : 5
+[2018.05.02-14.32.07:196][279]LogFbx: ItemName: Texture, ItemCount : 25
+[2018.05.02-14.32.07:196][279]LogFbx: ItemName: Video, ItemCount : 25
+[2018.05.02-14.32.07:196][279]LogFbx: ItemName: Geometry, ItemCount : 7
+[2018.05.02-14.32.07:196][279]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.05.02-14.32.07:196][279]LogFbx: ItemName: Deformer, ItemCount : 85
+[2018.05.02-14.32.07:196][279]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.05.02-14.32.07:196][279]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.05.02-14.32.07:196][279]LogFbx: ItemName: AnimationCurveNode, ItemCount : 68
+[2018.05.02-14.32.07:196][279]LogFbx: ItemName: AnimationCurve, ItemCount : 471
+[2018.05.02-14.32.07:262][279]LogFbx: Loading FBX Scene from ../../../../../../Users/balog/Desktop/Stomp.fbx
+[2018.05.02-14.32.07:472][279]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.02-14.32.11:207][279]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.02-14.32.21:336][279]LogFbx: Loading FBX Scene from ../../../../../../Users/balog/Desktop/Stomp.fbx
+[2018.05.02-14.32.21:479][279]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.02-14.32.21:540][279]LogFbx: =================================================
+[2018.05.02-14.32.21:540][279]LogFbx: Dumping Node START [Eyelashes] 
+[2018.05.02-14.32.21:540][279]LogFbx: 	Total Deformer Count -1061880960.
+[2018.05.02-14.32.21:540][279]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.05.02-14.32.21:540][279]LogFbx: =================================================
+[2018.05.02-14.32.21:540][279]LogFbx: 	Attribute (Eyelashesmesh) Type (4).
+[2018.05.02-14.32.21:540][279]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.05.02-14.32.21:540][279]LogFbx: Dumping Node END [Eyelashes]
+[2018.05.02-14.32.21:540][279]LogFbx: =================================================
+[2018.05.02-14.32.21:540][279]LogFbx: Dumping Node START [default] 
+[2018.05.02-14.32.21:540][279]LogFbx: 	Total Deformer Count -833715408.
+[2018.05.02-14.32.21:540][279]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.05.02-14.32.21:540][279]LogFbx: =================================================
+[2018.05.02-14.32.21:540][279]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2018.05.02-14.32.21:540][279]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.05.02-14.32.21:540][279]LogFbx: Dumping Node END [default]
+[2018.05.02-14.32.21:540][279]LogFbx: =================================================
+[2018.05.02-14.32.21:540][279]LogFbx: Dumping Node START [Body] 
+[2018.05.02-14.32.21:540][279]LogFbx: 	Total Deformer Count 156940992.
+[2018.05.02-14.32.21:540][279]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.05.02-14.32.21:540][279]LogFbx: =================================================
+[2018.05.02-14.32.21:540][279]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2018.05.02-14.32.21:540][279]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.05.02-14.32.21:540][279]LogFbx: Dumping Node END [Body]
+[2018.05.02-14.32.21:540][279]LogFbx: =================================================
+[2018.05.02-14.32.21:540][279]LogFbx: Dumping Node START [Hair] 
+[2018.05.02-14.32.21:540][279]LogFbx: 	Total Deformer Count 156940992.
+[2018.05.02-14.32.21:540][279]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.05.02-14.32.21:540][279]LogFbx: =================================================
+[2018.05.02-14.32.21:540][279]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2018.05.02-14.32.21:541][279]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.05.02-14.32.21:541][279]LogFbx: Dumping Node END [Hair]
+[2018.05.02-14.32.21:541][279]LogFbx: =================================================
+[2018.05.02-14.32.21:541][279]LogFbx: Dumping Node START [Tops] 
+[2018.05.02-14.32.21:541][279]LogFbx: 	Total Deformer Count 156940992.
+[2018.05.02-14.32.21:541][279]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.05.02-14.32.21:541][279]LogFbx: =================================================
+[2018.05.02-14.32.21:541][279]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2018.05.02-14.32.21:541][279]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.05.02-14.32.21:541][279]LogFbx: Dumping Node END [Tops]
+[2018.05.02-14.32.21:541][279]LogFbx: =================================================
+[2018.05.02-14.32.21:541][279]LogFbx: Dumping Node START [Bottoms] 
+[2018.05.02-14.32.21:541][279]LogFbx: 	Total Deformer Count -833715408.
+[2018.05.02-14.32.21:541][279]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.05.02-14.32.21:541][279]LogFbx: =================================================
+[2018.05.02-14.32.21:541][279]LogFbx: 	Attribute (Bottomsmesh) Type (4).
+[2018.05.02-14.32.21:541][279]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2018.05.02-14.32.21:541][279]LogFbx: Dumping Node END [Bottoms]
+[2018.05.02-14.32.21:541][279]LogFbx: =================================================
+[2018.05.02-14.32.21:541][279]LogFbx: Dumping Node START [Shoes] 
+[2018.05.02-14.32.21:541][279]LogFbx: 	Total Deformer Count 156940992.
+[2018.05.02-14.32.21:541][279]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.05.02-14.32.21:541][279]LogFbx: =================================================
+[2018.05.02-14.32.21:541][279]LogFbx: 	Attribute (Shoesmesh) Type (4).
+[2018.05.02-14.32.21:541][279]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2018.05.02-14.32.21:541][279]LogFbx: Dumping Node END [Shoes]
+[2018.05.02-14.32.21:541][279]LogFbx: =================================================
+[2018.05.02-14.32.21:541][279]LogFbx: Dumping Node START [Eyelashes] 
+[2018.05.02-14.32.21:541][279]LogFbx: 	Total Deformer Count 156688256.
+[2018.05.02-14.32.21:541][279]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.05.02-14.32.21:541][279]LogFbx: =================================================
+[2018.05.02-14.32.21:541][279]LogFbx: 	Attribute (Eyelashesmesh) Type (4).
+[2018.05.02-14.32.21:541][279]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.05.02-14.32.21:541][279]LogFbx: Dumping Node END [Eyelashes]
+[2018.05.02-14.32.21:541][279]LogFbx: =================================================
+[2018.05.02-14.32.21:541][279]LogFbx: Dumping Node START [default] 
+[2018.05.02-14.32.21:541][279]LogFbx: 	Total Deformer Count -833715352.
+[2018.05.02-14.32.21:541][279]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.05.02-14.32.21:541][279]LogFbx: =================================================
+[2018.05.02-14.32.21:541][279]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2018.05.02-14.32.21:542][279]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.05.02-14.32.21:542][279]LogFbx: Dumping Node END [default]
+[2018.05.02-14.32.21:542][279]LogFbx: =================================================
+[2018.05.02-14.32.21:542][279]LogFbx: Dumping Node START [Body] 
+[2018.05.02-14.32.21:542][279]LogFbx: 	Total Deformer Count 156940992.
+[2018.05.02-14.32.21:542][279]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.05.02-14.32.21:542][279]LogFbx: =================================================
+[2018.05.02-14.32.21:542][279]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2018.05.02-14.32.21:542][279]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.05.02-14.32.21:542][279]LogFbx: Dumping Node END [Body]
+[2018.05.02-14.32.21:542][279]LogFbx: =================================================
+[2018.05.02-14.32.21:542][279]LogFbx: Dumping Node START [Hair] 
+[2018.05.02-14.32.21:542][279]LogFbx: 	Total Deformer Count 156940992.
+[2018.05.02-14.32.21:542][279]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.05.02-14.32.21:542][279]LogFbx: =================================================
+[2018.05.02-14.32.21:542][279]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2018.05.02-14.32.21:542][279]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.05.02-14.32.21:542][279]LogFbx: Dumping Node END [Hair]
+[2018.05.02-14.32.21:542][279]LogFbx: =================================================
+[2018.05.02-14.32.21:542][279]LogFbx: Dumping Node START [Tops] 
+[2018.05.02-14.32.21:542][279]LogFbx: 	Total Deformer Count 156940992.
+[2018.05.02-14.32.21:542][279]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.05.02-14.32.21:542][279]LogFbx: =================================================
+[2018.05.02-14.32.21:542][279]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2018.05.02-14.32.21:542][279]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.05.02-14.32.21:542][279]LogFbx: Dumping Node END [Tops]
+[2018.05.02-14.32.21:542][279]LogFbx: =================================================
+[2018.05.02-14.32.21:542][279]LogFbx: Dumping Node START [Bottoms] 
+[2018.05.02-14.32.21:542][279]LogFbx: 	Total Deformer Count -833715352.
+[2018.05.02-14.32.21:542][279]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.05.02-14.32.21:542][279]LogFbx: =================================================
+[2018.05.02-14.32.21:542][279]LogFbx: 	Attribute (Bottomsmesh) Type (4).
+[2018.05.02-14.32.21:542][279]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2018.05.02-14.32.21:542][279]LogFbx: Dumping Node END [Bottoms]
+[2018.05.02-14.32.21:542][279]LogFbx: =================================================
+[2018.05.02-14.32.21:542][279]LogFbx: Dumping Node START [Shoes] 
+[2018.05.02-14.32.21:542][279]LogFbx: 	Total Deformer Count 156940992.
+[2018.05.02-14.32.21:542][279]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.05.02-14.32.21:542][279]LogFbx: =================================================
+[2018.05.02-14.32.21:542][279]LogFbx: 	Attribute (Shoesmesh) Type (4).
+[2018.05.02-14.32.21:542][279]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2018.05.02-14.32.21:542][279]LogFbx: Dumping Node END [Shoes]
+[2018.05.02-14.32.21:554][279]LogFbx: SortedLinks :(0) Hips
+[2018.05.02-14.32.21:554][279]LogFbx: SortedLinks :(1) Spine
+[2018.05.02-14.32.21:554][279]LogFbx: SortedLinks :(2) Spine1
+[2018.05.02-14.32.21:554][279]LogFbx: SortedLinks :(3) Spine2
+[2018.05.02-14.32.21:554][279]LogFbx: SortedLinks :(4) Neck
+[2018.05.02-14.32.21:554][279]LogFbx: SortedLinks :(5) Head
+[2018.05.02-14.32.21:554][279]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.05.02-14.32.21:554][279]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.05.02-14.32.21:554][279]LogFbx: SortedLinks :(8) LeftArm
+[2018.05.02-14.32.21:554][279]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.05.02-14.32.21:554][279]LogFbx: SortedLinks :(10) LeftHand
+[2018.05.02-14.32.21:554][279]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.05.02-14.32.21:554][279]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.05.02-14.32.21:554][279]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.05.02-14.32.21:554][279]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.05.02-14.32.21:554][279]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.05.02-14.32.21:554][279]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.05.02-14.32.21:554][279]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.05.02-14.32.21:554][279]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.05.02-14.32.21:554][279]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(31) RightShoulder
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(32) RightArm
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(33) RightForeArm
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(34) RightHand
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(35) RightHandThumb1
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(36) RightHandThumb2
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(37) RightHandThumb3
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(38) RightHandThumb4
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(39) RightHandIndex1
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(40) RightHandIndex2
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(41) RightHandIndex3
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(42) RightHandIndex4
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(47) RightHandRing1
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(48) RightHandRing2
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(49) RightHandRing3
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(50) RightHandRing4
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(51) RightHandPinky1
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(52) RightHandPinky2
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(53) RightHandPinky3
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(54) RightHandPinky4
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(55) LeftUpLeg
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(56) LeftLeg
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(57) LeftFoot
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(58) LeftToeBase
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(59) LeftToe_End
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(60) RightUpLeg
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(61) RightLeg
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(62) RightFoot
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(63) RightToeBase
+[2018.05.02-14.32.21:555][279]LogFbx: SortedLinks :(64) RightToe_End
+[2018.05.02-14.32.21:570][279]LogFbx: Parsing AnimStack mixamo.com
+[2018.05.02-14.32.21:638][279]LogLinker: Can't find file '/Game/SideScrollerBP/Elidi/Animations/Stomp'
+[2018.05.02-14.32.21:638][279]LogLinker: Can't find file '/Script/Stomp'
+[2018.05.02-14.32.22:036][279]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/Elidi/Animations/Stomp.Stomp
+[2018.05.02-14.32.22:037][279]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Stomp) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.02-14.32.25:361][371]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.05.02-14.32.26:369][371]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.05.02-14.32.27:005][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.05.02-14.32.28:335][371]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.05.02-14.32.28:357][371]LogRenderer: Reallocating scene render targets to support 912x420 Format 10 NumSamples 1 (Frame:1).
+[2018.05.02-14.32.28:357][371]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.05.02-14.32.49:505][  1]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.05.02-14.32.50:990][  1]LogSlate: Took 0.018257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.02-14.32.52:028][  2]LogSlate: Took 0.020853 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.02-14.38.13:364][ 99]BlueprintLog: New page: Compile Cave
+[2018.05.02-14.38.15:091][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cave" FILE="../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.02-14.38.16:335][175]LogSavePackage: Save=1178.02ms
+[2018.05.02-14.38.16:335][175]LogSavePackage: Moving '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Saved/CaveCDBAD0034E1FF3AC713956BD39F7BA4F.tmp' to '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap'
+[2018.05.02-14.38.16:343][175]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap
+[2018.05.02-14.38.16:406][175]LogFileHelpers: Saving map 'Cave' took 1.448
+[2018.05.02-14.38.19:403][337]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-14.38.19:638][337]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Cave.Cave:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Cave.Cave:PersistentLevel.Cave' with GeneratedClass '/Game/Maps/Cave.Cave_C' with ClassGeneratedBy '/Game/Maps/Cave.Cave:PersistentLevel.Cave'
+[2018.05.02-14.38.19:638][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-14.38.19:639][337]PIE: New page: PIE session: Cave (May 2, 2018, 6:38:19 AM)
+[2018.05.02-14.38.19:639][337]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Cave
+[2018.05.02-14.38.19:698][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058923s)
+[2018.05.02-14.38.19:700][337]LogAIModule: Creating AISystem for world Cave
+[2018.05.02-14.38.19:700][337]LogPlayLevel: PIE: World Init took: (0.001308s)
+[2018.05.02-14.38.19:700][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Cave.Cave to /Game/Maps/UEDPIE_0_Cave.Cave (0.060839s)
+[2018.05.02-14.38.19:738][337]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-14.38.19:750][337]LogInit: FAudioDevice initialized.
+[2018.05.02-14.38.19:797][337]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.05.02-14.38.19:808][337]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Cave.Cave up for play (max tick rate 0) at 2018.05.02-10.38.19
+[2018.05.02-14.38.19:830][337]LogWorld: Bringing up level for play took: 0.031693
+[2018.05.02-14.38.19:885][337]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.05.02-14.38.19:886][337]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Cave -0.328
+[2018.05.02-14.38.19:886][337]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Cave.Cave:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Cave.Cave:PersistentLevel.Cave' with GeneratedClass '/Game/Maps/Cave.Cave_C' with ClassGeneratedBy '/Game/Maps/Cave.Cave:PersistentLevel.Cave'
+[2018.05.02-14.38.20:098][338]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.20:597][357]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.21:097][378]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.21:615][399]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.22:128][421]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.22:636][444]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.23:137][467]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.23:644][490]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.24:162][513]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.24:678][536]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.25:198][559]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.25:704][581]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.26:208][602]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.26:731][623]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.27:248][644]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.27:771][665]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.28:286][686]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.28:802][707]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.33:970][915]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.34:478][934]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.34:984][956]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.35:504][978]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.36:026][  0]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.36:547][ 22]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.37:066][ 44]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.37:586][ 66]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.38:108][ 88]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.38:628][110]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.39:149][132]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.39:664][154]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.40:178][176]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.40:693][198]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.41:205][220]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.41:712][242]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.42:216][264]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.42:379][271]LogBlueprintUserMessages: [Cave_C_0] E Pressed
+[2018.05.02-14.38.42:728][286]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.43:234][308]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.43:745][330]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.44:261][352]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.44:775][374]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.45:277][396]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.45:793][419]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.46:295][442]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.46:809][466]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.47:322][490]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.47:834][514]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.38.48:050][524]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Cave.Cave:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Cave.Cave:PersistentLevel.Cave' with GeneratedClass '/Game/Maps/Cave.Cave_C' with ClassGeneratedBy '/Game/Maps/Cave.Cave:PersistentLevel.Cave'
+[2018.05.02-14.38.48:062][524]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2018.05.02-14.38.48:062][524]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2018.05.02-14.38.48:137][524]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Cave.Cave:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Cave.Cave:PersistentLevel.Cave' with GeneratedClass '/Game/Maps/Cave.Cave_C' with ClassGeneratedBy '/Game/Maps/Cave.Cave:PersistentLevel.Cave'
+[2018.05.02-14.38.54:517][814]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Mist_Unlit_Still4)
+[2018.05.02-14.38.55:283][839]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Mist_Unlit_Still4)
+[2018.05.02-14.38.58:186][958]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Mist_Unlit_Still4)
+[2018.05.02-14.38.58:690][979]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Mist_Unlit_Still4)
+[2018.05.02-14.39.00:538][ 52]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Mist_Unlit_Still4)
+[2018.05.02-14.39.01:211][ 81]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Mist_Unlit_Still4)
+[2018.05.02-14.39.23:005][ 15]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox4)
+[2018.05.02-14.39.57:996][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cave" FILE="../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.02-14.39.59:065][554]LogSavePackage: Save=1033.56ms
+[2018.05.02-14.39.59:065][554]LogSavePackage: Moving '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Saved/Cave16A556804198D223100D2FBDF2828FB3.tmp' to '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap'
+[2018.05.02-14.39.59:070][554]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap
+[2018.05.02-14.40.10:191][ 41]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox4)
+[2018.05.02-14.40.19:811][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cave" FILE="../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.02-14.40.20:873][482]LogSavePackage: Save=1026.85ms
+[2018.05.02-14.40.20:873][482]LogSavePackage: Moving '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Saved/Cave15F0E1804A7E64D7BAE833945FA6D98E.tmp' to '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap'
+[2018.05.02-14.40.20:879][482]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap
+[2018.05.02-14.41.10:156][354]BlueprintLog: New page: Compile Cave
+[2018.05.02-14.41.11:070][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cave" FILE="../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.02-14.41.12:132][390]LogSavePackage: Save=1028.48ms
+[2018.05.02-14.41.12:132][390]LogSavePackage: Moving '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Saved/Cave4B287402433022AC8456639B4EC0D038.tmp' to '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap'
+[2018.05.02-14.41.12:138][390]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap
+[2018.05.02-14.41.12:195][390]LogFileHelpers: Saving map 'Cave' took 1.231
+[2018.05.02-14.41.13:603][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cave" FILE="../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.02-14.41.14:678][453]LogSavePackage: Save=1038.29ms
+[2018.05.02-14.41.14:678][453]LogSavePackage: Moving '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Saved/Cave27AB897A402577A12EB3569A7A488DD4.tmp' to '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap'
+[2018.05.02-14.41.14:683][453]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap
+[2018.05.02-14.41.15:247][469]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-14.41.15:285][469]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Cave.Cave:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Cave.Cave:PersistentLevel.Cave' with GeneratedClass '/Game/Maps/Cave.Cave_C' with ClassGeneratedBy '/Game/Maps/Cave.Cave:PersistentLevel.Cave'
+[2018.05.02-14.41.15:285][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-14.41.15:285][469]PIE: New page: PIE session: Cave (May 2, 2018, 6:41:15 AM)
+[2018.05.02-14.41.15:285][469]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Cave
+[2018.05.02-14.41.15:356][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070445s)
+[2018.05.02-14.41.15:357][469]LogAIModule: Creating AISystem for world Cave
+[2018.05.02-14.41.15:357][469]LogPlayLevel: PIE: World Init took: (0.001573s)
+[2018.05.02-14.41.15:358][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Cave.Cave to /Game/Maps/UEDPIE_0_Cave.Cave (0.072984s)
+[2018.05.02-14.41.15:392][469]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-14.41.15:404][469]LogInit: FAudioDevice initialized.
+[2018.05.02-14.41.15:437][469]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.05.02-14.41.15:448][469]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Cave.Cave up for play (max tick rate 0) at 2018.05.02-10.41.15
+[2018.05.02-14.41.15:454][469]LogWorld: Bringing up level for play took: 0.016632
+[2018.05.02-14.41.15:456][469]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Cave -0.757
+[2018.05.02-14.41.15:457][469]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Cave.Cave:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Cave.Cave:PersistentLevel.Cave' with GeneratedClass '/Game/Maps/Cave.Cave_C' with ClassGeneratedBy '/Game/Maps/Cave.Cave:PersistentLevel.Cave'
+[2018.05.02-14.41.15:545][470]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.16:064][491]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.16:568][512]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.17:083][533]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.17:605][555]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.18:121][578]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.18:633][601]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.19:136][624]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.19:645][647]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.20:154][670]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.20:662][693]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.21:172][716]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.21:690][739]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.22:198][761]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.22:704][782]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.23:226][802]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.23:750][822]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.24:274][842]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.24:798][862]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.25:323][882]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.25:824][901]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.26:331][920]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.26:849][940]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.27:361][961]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.27:872][982]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.28:901][ 24]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.36:129][316]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.36:642][338]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.37:161][360]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.37:663][381]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.38:169][402]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.38:676][423]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.39:179][444]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.39:682][465]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.40:182][486]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.40:707][508]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.41:225][530]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.41:742][552]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.42:259][574]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.42:777][596]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.43:289][618]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.43:799][640]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.44:311][662]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.44:823][684]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.45:331][706]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.45:840][728]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.46:347][750]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.46:855][772]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.47:362][794]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.47:870][816]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.48:377][838]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.48:884][860]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.49:385][882]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.49:907][905]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.50:415][927]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.50:922][949]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.51:436][971]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.51:945][993]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.52:457][ 15]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.52:967][ 37]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.53:478][ 59]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.53:988][ 81]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.54:491][103]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.54:997][125]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.55:505][147]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.56:017][169]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.56:523][191]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.57:033][213]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.57:541][235]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.58:053][257]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.58:563][279]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.59:074][301]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.41.59:582][323]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.42.00:090][345]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.42.00:600][367]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.42.01:108][389]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.42.01:615][411]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.42.02:122][433]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.42.02:629][455]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.42.03:138][477]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.42.03:649][499]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.42.03:673][500]LogBlueprintUserMessages: [Cave_C_1] E Pressed
+[2018.05.02-14.42.04:159][521]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.42.04:668][543]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.42.05:183][565]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.42.05:700][587]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.42.06:217][609]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.42.06:739][632]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.42.07:249][655]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.42.07:767][679]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.42.08:285][703]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.42.08:802][727]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.42.09:321][751]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.42.09:841][775]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.42.10:361][799]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.42.10:794][819]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Cave.Cave:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Cave.Cave:PersistentLevel.Cave' with GeneratedClass '/Game/Maps/Cave.Cave_C' with ClassGeneratedBy '/Game/Maps/Cave.Cave:PersistentLevel.Cave'
+[2018.05.02-14.42.10:806][819]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2018.05.02-14.42.10:806][819]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2018.05.02-14.42.10:881][819]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Cave.Cave:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Cave.Cave:PersistentLevel.Cave' with GeneratedClass '/Game/Maps/Cave.Cave_C' with ClassGeneratedBy '/Game/Maps/Cave.Cave:PersistentLevel.Cave'
+[2018.05.02-14.43.35:950][863]BlueprintLog: New page: Compile Cave
+[2018.05.02-14.43.36:726][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cave" FILE="../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.02-14.43.37:812][884]LogSavePackage: Save=1035.96ms
+[2018.05.02-14.43.37:812][884]LogSavePackage: Moving '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Saved/CaveF5E48903427D026BFCD19ABB8C461A1A.tmp' to '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap'
+[2018.05.02-14.43.37:817][884]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap
+[2018.05.02-14.43.37:876][884]LogFileHelpers: Saving map 'Cave' took 1.255
+[2018.05.02-14.43.38:925][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cave" FILE="../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.02-14.43.40:003][934]LogSavePackage: Save=1033.58ms
+[2018.05.02-14.43.40:003][934]LogSavePackage: Moving '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Saved/Cave5615497347C8988B7B69F4843DD46DF8.tmp' to '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap'
+[2018.05.02-14.43.40:008][934]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap
+[2018.05.02-14.43.40:645][956]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-14.43.40:678][956]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Cave.Cave:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Cave.Cave:PersistentLevel.Cave' with GeneratedClass '/Game/Maps/Cave.Cave_C' with ClassGeneratedBy '/Game/Maps/Cave.Cave:PersistentLevel.Cave'
+[2018.05.02-14.43.40:679][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-14.43.40:679][956]PIE: New page: PIE session: Cave (May 2, 2018, 6:43:40 AM)
+[2018.05.02-14.43.40:680][956]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Cave
+[2018.05.02-14.43.40:749][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069605s)
+[2018.05.02-14.43.40:750][956]LogAIModule: Creating AISystem for world Cave
+[2018.05.02-14.43.40:751][956]LogPlayLevel: PIE: World Init took: (0.001316s)
+[2018.05.02-14.43.40:751][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Cave.Cave to /Game/Maps/UEDPIE_0_Cave.Cave (0.071740s)
+[2018.05.02-14.43.40:785][956]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-14.43.40:798][956]LogInit: FAudioDevice initialized.
+[2018.05.02-14.43.40:832][956]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.05.02-14.43.40:842][956]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Cave.Cave up for play (max tick rate 0) at 2018.05.02-10.43.40
+[2018.05.02-14.43.40:849][956]LogWorld: Bringing up level for play took: 0.016651
+[2018.05.02-14.43.40:851][956]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Cave 0.637
+[2018.05.02-14.43.40:851][956]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Cave.Cave:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Cave.Cave:PersistentLevel.Cave' with GeneratedClass '/Game/Maps/Cave.Cave_C' with ClassGeneratedBy '/Game/Maps/Cave.Cave:PersistentLevel.Cave'
+[2018.05.02-14.43.40:930][957]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.41:454][979]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.41:954][  0]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.42:456][ 21]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.42:970][ 43]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.43:486][ 66]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.43:995][ 89]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.44:500][112]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.45:013][135]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.45:528][158]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.46:037][181]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.46:539][203]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.47:047][225]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.47:554][246]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.48:076][267]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.48:597][287]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.49:117][307]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.49:629][328]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.55:294][557]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.55:800][579]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.56:311][601]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.56:817][622]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.57:327][643]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.57:829][664]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.58:334][685]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.58:837][706]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.59:337][727]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.43.59:859][749]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.00:382][771]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.00:901][793]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.01:414][815]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.01:916][837]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.02:417][859]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.02:919][881]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.03:427][903]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.03:942][925]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.04:459][947]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.04:978][969]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.05:496][991]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.06:014][ 13]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.06:532][ 35]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.07:043][ 57]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.07:544][ 79]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.08:048][101]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.08:551][123]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.09:053][145]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.09:557][167]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.10:062][189]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.10:570][211]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.11:080][233]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.11:591][255]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.12:100][277]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.12:614][299]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.13:127][321]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.13:639][343]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.14:154][365]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.14:667][387]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.15:183][409]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.15:699][431]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.16:212][453]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.16:726][475]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.17:238][497]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.17:748][519]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.18:261][541]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.18:775][563]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.19:285][585]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.19:797][607]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.20:308][629]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.20:815][651]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.21:323][673]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.21:830][695]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.22:340][717]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.22:851][739]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.23:364][761]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.23:877][783]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.24:387][805]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.24:894][827]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.25:404][849]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.25:911][871]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.26:420][893]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.26:929][915]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.27:439][937]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.27:948][959]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.28:457][981]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.28:963][  3]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.29:471][ 25]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.29:976][ 47]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.30:483][ 69]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.30:990][ 91]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.31:497][113]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.32:004][135]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.32:510][157]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.33:015][179]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.33:522][201]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.34:029][223]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.34:537][245]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.35:046][267]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.35:559][289]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.36:072][311]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.36:581][333]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.37:091][355]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.37:598][377]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.38:108][399]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.38:618][421]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.39:129][443]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.39:641][465]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.40:153][487]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.40:668][509]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.41:176][531]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.41:688][553]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.42:201][575]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.42:716][597]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.43:231][619]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.43:746][641]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.44:266][663]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.44:783][685]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.45:298][707]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.45:817][729]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.46:338][751]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.46:856][773]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.47:372][795]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.47:888][817]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.48:406][839]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.48:919][861]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.49:433][883]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.49:946][905]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.50:456][927]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.50:966][949]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.51:475][971]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.51:986][993]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.52:494][ 15]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.53:002][ 37]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.53:507][ 59]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.54:015][ 81]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.54:523][103]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.55:031][125]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.55:541][147]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.56:052][169]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.56:562][191]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.57:070][213]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.57:578][235]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.58:087][257]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.58:596][279]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.59:106][301]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.44.59:620][323]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.00:131][345]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.00:644][367]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.01:156][389]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.01:668][411]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.02:181][433]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.02:692][455]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.03:205][477]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.03:719][499]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.04:230][521]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.04:741][543]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.05:254][565]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.05:767][587]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.06:278][609]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.06:792][631]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.07:303][653]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.07:815][675]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.08:325][697]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.08:833][719]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.09:338][741]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.09:847][763]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.10:357][785]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.10:867][807]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.11:377][829]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.11:888][851]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.12:400][873]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.12:908][895]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.13:417][917]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.13:924][939]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.14:434][961]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.14:942][983]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.15:450][  5]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.15:961][ 27]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.16:471][ 49]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.16:983][ 71]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.17:497][ 93]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.18:010][115]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.18:523][137]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.19:037][159]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.19:550][181]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.20:065][203]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.20:580][225]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.21:093][247]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.21:608][269]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.22:120][291]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.22:637][313]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.23:152][335]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.23:668][357]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.24:186][379]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.24:704][401]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.25:220][423]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.25:732][445]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.26:243][467]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.26:755][489]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.27:267][511]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.27:779][533]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.28:286][555]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.28:794][577]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.29:297][599]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.29:802][621]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.30:308][643]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.30:816][665]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.31:324][687]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.31:829][709]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.32:332][731]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.32:836][753]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.33:341][775]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.33:847][797]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.34:351][819]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.34:860][841]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.35:367][863]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.35:875][885]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.36:381][907]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.36:889][929]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.37:397][951]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.37:907][973]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.38:416][995]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.38:924][ 17]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.39:430][ 39]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.39:939][ 61]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.40:449][ 83]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.40:961][105]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.41:471][127]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.41:982][149]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.42:492][171]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.43:007][193]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.43:519][215]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.44:033][237]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.44:546][259]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.45:057][281]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.45:567][303]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.46:077][325]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.46:588][347]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.47:097][369]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.47:607][391]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.48:120][413]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.48:632][435]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.49:142][457]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.49:655][479]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.50:164][501]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.50:676][523]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.51:183][545]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.51:691][567]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.52:198][589]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.52:707][611]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.53:216][633]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.53:724][655]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.54:238][677]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.54:735][698]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.55:242][719]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.55:748][740]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.56:252][761]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.56:756][782]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.57:258][803]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.57:780][825]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.58:295][847]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.58:810][869]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.59:326][891]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.45.59:839][913]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.46.00:352][935]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.46.00:866][957]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.46.01:379][979]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.46.01:894][  1]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.46.02:409][ 23]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.46.02:931][ 46]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.46.03:444][ 69]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.46.03:557][ 74]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Cave.Cave:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Cave.Cave:PersistentLevel.Cave' with GeneratedClass '/Game/Maps/Cave.Cave_C' with ClassGeneratedBy '/Game/Maps/Cave.Cave:PersistentLevel.Cave'
+[2018.05.02-14.46.03:565][ 74]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2018.05.02-14.46.03:565][ 74]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2018.05.02-14.46.03:644][ 74]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Cave.Cave:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Cave.Cave:PersistentLevel.Cave' with GeneratedClass '/Game/Maps/Cave.Cave_C' with ClassGeneratedBy '/Game/Maps/Cave.Cave:PersistentLevel.Cave'
+[2018.05.02-14.46.57:895][769]BlueprintLog: New page: Compile Cave
+[2018.05.02-14.46.58:670][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cave" FILE="../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.02-14.46.59:736][793]LogSavePackage: Save=1034.66ms
+[2018.05.02-14.46.59:736][793]LogSavePackage: Moving '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Saved/Cave493A747D45CB2B2DDD1936AB9FC7C35B.tmp' to '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap'
+[2018.05.02-14.46.59:741][793]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap
+[2018.05.02-14.46.59:797][793]LogFileHelpers: Saving map 'Cave' took 1.234
+[2018.05.02-14.47.01:518][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cave" FILE="../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.02-14.47.02:588][894]LogSavePackage: Save=1032.97ms
+[2018.05.02-14.47.02:588][894]LogSavePackage: Moving '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Saved/Cave92CF9A5F48471F479A398C96203B9BDF.tmp' to '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap'
+[2018.05.02-14.47.02:594][894]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap
+[2018.05.02-14.47.03:219][915]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-14.47.03:252][915]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Cave.Cave:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Cave.Cave:PersistentLevel.Cave' with GeneratedClass '/Game/Maps/Cave.Cave_C' with ClassGeneratedBy '/Game/Maps/Cave.Cave:PersistentLevel.Cave'
+[2018.05.02-14.47.03:253][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-14.47.03:253][915]PIE: New page: PIE session: Cave (May 2, 2018, 6:47:03 AM)
+[2018.05.02-14.47.03:253][915]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Cave
+[2018.05.02-14.47.03:324][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070361s)
+[2018.05.02-14.47.03:325][915]LogAIModule: Creating AISystem for world Cave
+[2018.05.02-14.47.03:326][915]LogPlayLevel: PIE: World Init took: (0.001835s)
+[2018.05.02-14.47.03:326][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Cave.Cave to /Game/Maps/UEDPIE_0_Cave.Cave (0.073058s)
+[2018.05.02-14.47.03:362][915]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-14.47.03:373][915]LogInit: FAudioDevice initialized.
+[2018.05.02-14.47.03:404][915]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.05.02-14.47.03:417][915]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Cave.Cave up for play (max tick rate 0) at 2018.05.02-10.47.03
+[2018.05.02-14.47.03:424][915]LogWorld: Bringing up level for play took: 0.018403
+[2018.05.02-14.47.03:425][915]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Cave -0.788
+[2018.05.02-14.47.03:426][915]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Cave.Cave:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Cave.Cave:PersistentLevel.Cave' with GeneratedClass '/Game/Maps/Cave.Cave_C' with ClassGeneratedBy '/Game/Maps/Cave.Cave:PersistentLevel.Cave'
+[2018.05.02-14.47.03:503][916]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.04:027][938]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.04:544][959]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.05:052][981]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.05:568][  4]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.06:078][ 27]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.06:590][ 50]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.07:090][ 72]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.07:591][ 94]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.08:103][116]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.08:612][138]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.09:128][159]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.09:643][179]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.10:147][199]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.16:367][443]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.16:888][465]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.17:413][486]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.17:920][506]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.18:427][526]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.18:930][546]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.19:435][566]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.19:943][586]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.20:448][606]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.20:950][626]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.21:454][646]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.21:956][666]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.22:457][686]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.22:979][707]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.23:494][728]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.24:015][749]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.24:534][770]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.25:057][791]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.25:577][812]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.26:094][834]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.26:608][856]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.27:114][878]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.27:633][901]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.28:147][924]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.28:660][947]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.29:174][970]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.29:687][993]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.30:198][ 16]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.30:711][ 39]LogBlueprintUserMessages: [SUNFRAGMENT] 
+[2018.05.02-14.47.31:202][ 61]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Cave.Cave:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Cave.Cave:PersistentLevel.Cave' with GeneratedClass '/Game/Maps/Cave.Cave_C' with ClassGeneratedBy '/Game/Maps/Cave.Cave:PersistentLevel.Cave'
+[2018.05.02-14.47.31:210][ 61]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2018.05.02-14.47.31:210][ 61]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2018.05.02-14.47.31:289][ 61]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Cave.Cave:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Cave.Cave:PersistentLevel.Cave' with GeneratedClass '/Game/Maps/Cave.Cave_C' with ClassGeneratedBy '/Game/Maps/Cave.Cave:PersistentLevel.Cave'
+[2018.05.02-14.49.47:964][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cave" FILE="../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.02-14.49.49:052][334]LogSavePackage: Save=1039.02ms
+[2018.05.02-14.49.49:053][334]LogSavePackage: Moving '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Saved/Cave1C2EDCB34FEA912FFE6205A8CE872F15.tmp' to '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap'
+[2018.05.02-14.49.49:059][334]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/Cave.umap
+[2018.05.02-14.49.55:729][558]LogLinker: Warning: Can't find file '/Game/Maps/CineCave_BuiltData'
+[2018.05.02-14.49.55:730][558]LogLinker: Warning: Can't find file for asset '/Game/Maps/CineCave_BuiltData' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/CineCave.umap.
+[2018.05.02-14.49.55:730][558]LoadErrors: Error: /Game/Maps/CineCave : Can't find file for asset. /Game/Maps/CineCave_BuiltData
+[2018.05.02-14.49.55:760][558]LogLinker: Warning: Can't find file '/Game/Maps/CineCave_BuiltData'
+[2018.05.02-14.49.55:760][558]LogLinker: Warning: Can't find file for asset '/Game/Maps/CineCave_BuiltData' while loading ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/CineCave.umap.
+[2018.05.02-14.49.55:801][558]LogLinker: Warning: Can't find file '/Game/Maps/CineCave_BuiltData'
+[2018.05.02-14.49.55:801][558]LogLinker: Warning: Can't find file for asset '/Game/Maps/CineCave_BuiltData' while loading NULL.
+[2018.05.02-14.49.55:801][558]LogLinker: Warning: Can't find file '/Game/Maps/CineCave_BuiltData'
+[2018.05.02-14.49.55:801][558]LogLinker: Warning: Can't find file for asset '/Game/Maps/CineCave_BuiltData' while loading NULL.
+[2018.05.02-14.49.55:851][558]LogLinker: Warning: Can't find file '/Game/Maps/CineCave_BuiltData'
+[2018.05.02-14.49.55:852][558]LoadErrors: Failed to load /Game/Maps/CineCave_BuiltData.CineCave_BuiltData Referenced by PersistentLevel
+[2018.05.02-14.49.55:852][558]LogLinker: Warning: Can't find file for asset '/Game/Maps/CineCave_BuiltData' while loading NULL.
+[2018.05.02-14.49.55:922][558]LogAIModule: Creating AISystem for world CineCave
+[2018.05.02-14.49.58:558][558]LogSavePackage: Save=24.66ms
+[2018.05.02-14.49.58:558][558]LogSavePackage: Moving '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Saved/Stomp3EB68F024CED92B927117583E2368052.tmp' to '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/SideScrollerBP/Elidi/Animations/Stomp.uasset'
+[2018.05.02-14.49.58:562][558]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/SideScrollerBP/Elidi/Animations/Stomp.uasset
+[2018.05.02-14.49.58:562][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/cinematics/getup" FILE="../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/UI/cinematics/getup.uasset" SILENT=true
+[2018.05.02-14.49.58:619][558]LogSavePackage: Save=43.82ms
+[2018.05.02-14.49.58:619][558]LogSavePackage: Moving '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Saved/getupDD6D5D444230024CA26C6086CD914474.tmp' to '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/UI/cinematics/getup.uasset'
+[2018.05.02-14.49.58:624][558]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/UI/cinematics/getup.uasset
+[2018.05.02-14.49.58:626][558]Cmd: MAP LOAD FILE="../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Maps/CineCave.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.02-14.49.58:626][558]LightingResults: New page: Lighting Build
+[2018.05.02-14.49.58:627][558]LoadErrors: New page: Loading map: CineCave.umap
+[2018.05.02-14.49.58:714][558]MapCheck: New page: Map Check
+[2018.05.02-14.49.58:714][558]LightingResults: New page: Lighting Build
+[2018.05.02-14.49.58:779][558]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.02-14.49.58:860][558]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.02-14.49.58:967][558]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 107ms to complete.
+[2018.05.02-14.49.58:976][558]LogFileHelpers: Loading map 'CineCave' took 0.351
+[2018.05.02-14.51.35:186][249]Cmd: QUIT_EDITOR
+[2018.05.02-14.51.36:176][249]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.02-14.51.36:176][249]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.02-14.51.36:192][249]LogExit: Preparing to exit.
+[2018.05.02-14.51.37:084][249]LogDirectoryWatcher: A directory notification for 'C:/Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/' was aborted.
+[2018.05.02-14.51.37:184][249]LogExit: Editor shut down
+[2018.05.02-14.51.37:223][249]LogExit: Transaction tracking system shut down
+[2018.05.02-14.51.37:431][249]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.02-14.51.37:431][249]LogDirectoryWatcher: A directory notification for '../../../../../../Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/' was aborted.
+[2018.05.02-14.51.37:431][249]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.02-14.51.37:432][249]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.05.02-14.51.37:432][249]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.05.02-14.51.37:432][249]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.05.02-14.51.37:432][249]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.05.02-14.51.37:560][249]LogExit: Object subsystem successfully closed.
+[2018.05.02-14.51.37:588][249]LogD3D11RHI: Shutdown
+[2018.05.02-14.51.37:588][249]LogD3D11RHI: CleanupD3DDevice
+[2018.05.02-14.51.37:594][249]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.05.02-14.51.37:613][249]LogModuleManager: Shutting down and abandoning module SequencerWidgets (564)
+[2018.05.02-14.51.37:614][249]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (562)
+[2018.05.02-14.51.37:614][249]LogModuleManager: Shutting down and abandoning module BlueprintGraph (560)
+[2018.05.02-14.51.37:614][249]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (558)
+[2018.05.02-14.51.37:614][249]LogModuleManager: Shutting down and abandoning module SkeletonEditor (556)
+[2018.05.02-14.51.37:614][249]LogModuleManager: Shutting down and abandoning module AnimationEditor (554)
+[2018.05.02-14.51.37:614][249]LogModuleManager: Shutting down and abandoning module StatsViewer (552)
+[2018.05.02-14.51.37:614][249]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.05.02-14.51.37:614][249]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.05.02-14.51.37:614][249]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.05.02-14.51.37:614][249]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.05.02-14.51.37:622][249]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.05.02-14.51.37:622][249]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.05.02-14.51.37:622][249]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.05.02-14.51.37:622][249]LogDirectoryWatcher: A directory notification for 'C:/Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Collections/' was aborted.
+[2018.05.02-14.51.37:622][249]LogDirectoryWatcher: A directory notification for 'C:/Users/balog/Documents/GitHub/Daybreak/Daybreak/Content/Developers/balog/Collections/' was aborted.
+[2018.05.02-14.51.37:622][249]LogDirectoryWatcher: A directory notification for 'C:/Users/balog/Documents/GitHub/Daybreak/Daybreak/Saved/Collections/' was aborted.
+[2018.05.02-14.51.37:622][249]LogModuleManager: Shutting down and abandoning module FoliageEdit (538)
+[2018.05.02-14.51.37:622][249]LogModuleManager: Shutting down and abandoning module LandscapeEditor (536)
+[2018.05.02-14.51.37:622][249]LogModuleManager: Shutting down and abandoning module MeshPaintMode (534)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (532)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module ActorPickerMode (530)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module GeometryMode (528)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module TextureAlignMode (526)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module BspMode (524)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (522)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module HardwareSurvey (520)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (518)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module AutomationWorker (516)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (514)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (512)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module PlacementMode (511)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (508)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (506)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (504)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (502)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (500)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (498)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (496)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (494)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (492)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module CharacterAI (490)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module AudioCapture (488)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module SequenceRecorder (487)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module SmartSnapping (484)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module SessionServices (482)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module ViewportSnapping (480)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module ViewportInteraction (478)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module ClothPainter (476)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (475)
+[2018.05.02-14.51.37:623][249]LogModuleManager: Shutting down and abandoning module LogVisualizer (472)
+[2018.05.02-14.51.37:624][249]LogModuleManager: Shutting down and abandoning module IntroTutorials (470)
+[2018.05.02-14.51.37:624][249]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (469)
+[2018.05.02-14.51.37:624][249]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (466)
+[2018.05.02-14.51.37:624][249]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (464)
+[2018.05.02-14.51.37:624][249]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (462)
+[2018.05.02-14.51.37:624][249]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (461)
+[2018.05.02-14.51.37:755][249]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (458)
+[2018.05.02-14.51.37:755][249]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (456)
+[2018.05.02-14.51.37:755][249]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (454)
+[2018.05.02-14.51.37:755][249]LogModuleManager: Shutting down and abandoning module InputBindingEditor (452)
+[2018.05.02-14.51.37:755][249]LogModuleManager: Shutting down and abandoning module MergeActors (450)
+[2018.05.02-14.51.37:756][249]LogModuleManager: Shutting down and abandoning module SizeMap (448)
+[2018.05.02-14.51.37:756][249]LogModuleManager: Shutting down and abandoning module TreeMap (446)
+[2018.05.02-14.51.37:756][249]LogModuleManager: Shutting down and abandoning module ReferenceViewer (444)
+[2018.05.02-14.51.37:756][249]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (442)
+[2018.05.02-14.51.37:756][249]LogModuleManager: Shutting down and abandoning module LocalizationService (441)
+[2018.05.02-14.51.37:756][249]LogModuleManager: Shutting down and abandoning module HardwareTargeting (438)
+[2018.05.02-14.51.37:756][249]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (436)
+[2018.05.02-14.51.37:756][249]LogModuleManager: Shutting down and abandoning module UndoHistory (434)
+[2018.05.02-14.51.37:756][249]LogModuleManager: Shutting down and abandoning module XmlParser (432)
+[2018.05.02-14.51.37:756][249]LogModuleManager: Shutting down and abandoning module Blutility (430)
+[2018.05.02-14.51.37:756][249]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (428)
+[2018.05.02-14.51.37:756][249]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (427)
+[2018.05.02-14.51.37:756][249]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (424)
+[2018.05.02-14.51.37:756][249]LogModuleManager: Shutting down and abandoning module SettingsEditor (422)
+[2018.05.02-14.51.37:756][249]LogModuleManager: Shutting down and abandoning module ProjectLauncher (420)
+[2018.05.02-14.51.37:756][249]LogModuleManager: Shutting down and abandoning module SessionFrontend (418)
+[2018.05.02-14.51.37:756][249]LogModuleManager: Shutting down and abandoning module ProfilerClient (416)
+[2018.05.02-14.51.37:756][249]LogModuleManager: Shutting down and abandoning module DeviceManager (414)
+[2018.05.02-14.51.37:757][249]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (413)
+[2018.05.02-14.51.37:809][249]LogModuleManager: Shutting down and abandoning module AutomationController (410)
+[2018.05.02-14.51.37:809][249]LogModuleManager: Shutting down and abandoning module AutomationWindow (408)
+[2018.05.02-14.51.37:809][249]LogModuleManager: Shutting down and abandoning module Layers (406)
+[2018.05.02-14.51.37:809][249]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (404)
+[2018.05.02-14.51.37:809][249]LogModuleManager: Shutting down and abandoning module DetailCustomizations (402)
+[2018.05.02-14.51.37:809][249]LogModuleManager: Shutting down and abandoning module PackagesDialog (400)
+[2018.05.02-14.51.37:809][249]LogModuleManager: Shutting down and abandoning module Persona (398)
+[2018.05.02-14.51.37:809][249]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (397)
+[2018.05.02-14.51.37:809][249]LogModuleManager: Shutting down and abandoning module AnimGraph (395)
+[2018.05.02-14.51.37:809][249]LogModuleManager: Shutting down and abandoning module Kismet (392)
+[2018.05.02-14.51.37:816][249]LogModuleManager: Shutting down and abandoning module ClassViewer (390)
+[2018.05.02-14.51.37:817][249]LogModuleManager: Shutting down and abandoning module Toolbox (388)
+[2018.05.02-14.51.37:817][249]LogModuleManager: Shutting down and abandoning module ModuleUI (386)
+[2018.05.02-14.51.37:817][249]LogModuleManager: Shutting down and abandoning module MovieSceneTools (384)
+[2018.05.02-14.51.37:817][249]LogModuleManager: Shutting down and abandoning module OutputLog (382)
+[2018.05.02-14.51.37:817][249]LogModuleManager: Shutting down and abandoning module GammaUI (380)
+[2018.05.02-14.51.37:817][249]LogModuleManager: Shutting down and abandoning module Documentation (378)
+[2018.05.02-14.51.37:817][249]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (376)
+[2018.05.02-14.51.37:817][249]LogModuleManager: Shutting down and abandoning module MovieScene (374)
+[2018.05.02-14.51.37:817][249]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (372)
+[2018.05.02-14.51.37:817][249]LogModuleManager: Shutting down and abandoning module LauncherPlatform (370)
+[2018.05.02-14.51.37:817][249]LogModuleManager: Shutting down and abandoning module AnalyticsET (368)
+[2018.05.02-14.51.37:817][249]LogModuleManager: Shutting down and abandoning module PortalServices (366)
+[2018.05.02-14.51.37:817][249]LogModuleManager: Shutting down and abandoning module PortalRpc (364)
+[2018.05.02-14.51.37:817][249]LogModuleManager: Shutting down and abandoning module MessagingRpc (362)
+[2018.05.02-14.51.37:817][249]LogModuleManager: Shutting down and abandoning module AIModule (360)
+[2018.05.02-14.51.37:817][249]LogModuleManager: Shutting down and abandoning module GameplayDebugger (359)
+[2018.05.02-14.51.37:817][249]LogModuleManager: Shutting down and abandoning module AITestSuite (357)
+[2018.05.02-14.51.37:817][249]LogModuleManager: Shutting down and abandoning module DesktopPlatform (354)
+[2018.05.02-14.51.37:817][249]LogModuleManager: Shutting down and abandoning module ProfilerService (352)
+[2018.05.02-14.51.38:049][249]LogModuleManager: Shutting down and abandoning module TaskGraph (350)
+[2018.05.02-14.51.38:049][249]LogModuleManager: Shutting down and abandoning module SteamVRController (348)
+[2018.05.02-14.51.38:049][249]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (346)
+[2018.05.02-14.51.38:049][249]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (344)
+[2018.05.02-14.51.38:049][249]LogModuleManager: Shutting down and abandoning module OculusInput (342)
+[2018.05.02-14.51.38:049][249]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (340)
+[2018.05.02-14.51.38:049][249]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (338)
+[2018.05.02-14.51.38:049][249]LogModuleManager: Shutting down and abandoning module CableComponent (336)
+[2018.05.02-14.51.38:049][249]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (334)
+[2018.05.02-14.51.38:049][249]LogModuleManager: Shutting down and abandoning module AndroidPermission (332)
+[2018.05.02-14.51.38:049][249]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
+[2018.05.02-14.51.38:049][249]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (326)
+[2018.05.02-14.51.38:049][249]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (324)
+[2018.05.02-14.51.38:049][249]LogModuleManager: Shutting down and abandoning module MediaCompositing (322)
+[2018.05.02-14.51.38:049][249]LogModuleManager: Shutting down and abandoning module HTML5Networking (320)
+[2018.05.02-14.51.38:049][249]LogModuleManager: Shutting down and abandoning module AlembicImporter (318)
+[2018.05.02-14.51.38:049][249]LogModuleManager: Shutting down and abandoning module AlembicLibrary (317)
+[2018.05.02-14.51.38:049][249]LogModuleManager: Shutting down and abandoning module GeometryCache (316)
+[2018.05.02-14.51.38:049][249]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (315)
+[2018.05.02-14.51.38:049][249]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (310)
+[2018.05.02-14.51.38:049][249]LogModuleManager: Shutting down and abandoning module PluginBrowser (308)
+[2018.05.02-14.51.38:050][249]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (306)
+[2018.05.02-14.51.38:050][249]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (304)
+[2018.05.02-14.51.38:050][249]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (302)
+[2018.05.02-14.51.38:050][249]LogModuleManager: Shutting down and abandoning module UObjectPlugin (300)
+[2018.05.02-14.51.38:050][249]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (298)
+[2018.05.02-14.51.38:050][249]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (296)
+[2018.05.02-14.51.38:050][249]LogModuleManager: Shutting down and abandoning module GitSourceControl (294)
+[2018.05.02-14.51.38:050][249]LogModuleManager: Shutting down and abandoning module SourceControl (293)
+[2018.05.02-14.51.38:050][249]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (290)
+[2018.05.02-14.51.38:050][249]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (288)
+[2018.05.02-14.51.38:050][249]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (286)
+[2018.05.02-14.51.38:050][249]LogModuleManager: Shutting down and abandoning module Paper2DEditor (284)
+[2018.05.02-14.51.38:050][249]LogModuleManager: Shutting down and abandoning module MeshPaint (283)
+[2018.05.02-14.51.38:050][249]LogModuleManager: Shutting down and abandoning module LevelEditor (281)
+[2018.05.02-14.51.38:052][249]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (280)
+[2018.05.02-14.51.38:052][249]LogModuleManager: Shutting down and abandoning module MainFrame (278)
+[2018.05.02-14.51.38:052][249]LogModuleManager: Shutting down and abandoning module HotReload (277)
+[2018.05.02-14.51.38:052][249]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (272)
+[2018.05.02-14.51.38:052][249]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (270)
+[2018.05.02-14.51.38:052][249]LogModuleManager: Shutting down and abandoning module PhysXVehicles (268)
+[2018.05.02-14.51.38:053][249]LogModuleManager: Shutting down and abandoning module OculusEditor (266)
+[2018.05.02-14.51.38:053][249]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (264)
+[2018.05.02-14.51.38:053][249]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (262)
+[2018.05.02-14.51.38:053][249]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (260)
+[2018.05.02-14.51.38:053][249]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (258)
+[2018.05.02-14.51.38:053][249]LogModuleManager: Shutting down and abandoning module ApexDestruction (256)
+[2018.05.02-14.51.38:053][249]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.05.02-14.51.38:154][249]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.05.02-14.51.38:254][249]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.05.02-14.51.38:254][249]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.05.02-14.51.38:254][249]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.05.02-14.51.38:254][249]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.05.02-14.51.38:254][249]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.05.02-14.51.38:254][249]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.05.02-14.51.38:257][249]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.05.02-14.51.38:257][249]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.05.02-14.51.38:257][249]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.05.02-14.51.38:257][249]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.05.02-14.51.38:260][249]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.05.02-14.51.38:260][249]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.05.02-14.51.38:260][249]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.05.02-14.51.38:260][249]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.05.02-14.51.38:260][249]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.05.02-14.51.38:260][249]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.05.02-14.51.38:266][249]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.05.02-14.51.38:266][249]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.05.02-14.51.38:266][249]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.05.02-14.51.38:266][249]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.05.02-14.51.38:266][249]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.05.02-14.51.38:266][249]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.05.02-14.51.38:266][249]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.05.02-14.51.38:266][249]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.05.02-14.51.38:266][249]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.05.02-14.51.38:266][249]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.05.02-14.51.38:266][249]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.05.02-14.51.38:266][249]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.05.02-14.51.38:267][249]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.05.02-14.51.38:267][249]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.05.02-14.51.38:267][249]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.05.02-14.51.38:267][249]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.05.02-14.51.38:269][249]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.05.02-14.51.38:269][249]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.05.02-14.51.38:269][249]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.05.02-14.51.38:269][249]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.05.02-14.51.38:269][249]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.05.02-14.51.38:269][249]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.05.02-14.51.38:269][249]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.05.02-14.51.38:269][249]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.05.02-14.51.38:276][249]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.05.02-14.51.38:276][249]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.05.02-14.51.38:276][249]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.05.02-14.51.38:276][249]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.05.02-14.51.38:276][249]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.05.02-14.51.38:276][249]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.05.02-14.51.38:276][249]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.05.02-14.51.38:276][249]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.05.02-14.51.38:276][249]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.05.02-14.51.38:367][249]LogDerivedDataCache: Shutdown
+[2018.05.02-14.51.38:367][249]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.05.02-14.51.38:367][249]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.05.02-14.51.38:367][249]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.05.02-14.51.38:367][249]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.05.02-14.51.38:367][249]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.05.02-14.51.38:367][249]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.05.02-14.51.38:367][249]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.05.02-14.51.38:367][249]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.05.02-14.51.38:367][249]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.05.02-14.51.38:367][249]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.05.02-14.51.38:368][249]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.05.02-14.51.38:368][249]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.05.02-14.51.38:368][249]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.05.02-14.51.38:368][249]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.05.02-14.51.38:368][249]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.05.02-14.51.38:368][249]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.05.02-14.51.38:368][249]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.05.02-14.51.38:368][249]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.05.02-14.51.38:368][249]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.05.02-14.51.38:368][249]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.05.02-14.51.38:368][249]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.05.02-14.51.38:368][249]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.05.02-14.51.38:368][249]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.05.02-14.51.38:368][249]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.05.02-14.51.38:368][249]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.05.02-14.51.38:368][249]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.05.02-14.51.38:368][249]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.05.02-14.51.38:368][249]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.05.02-14.51.38:368][249]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.05.02-14.51.38:368][249]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.05.02-14.51.38:368][249]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.05.02-14.51.38:368][249]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.05.02-14.51.38:369][249]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.05.02-14.51.38:369][249]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.05.02-14.51.38:369][249]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.05.02-14.51.38:369][249]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.05.02-14.51.38:369][249]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.05.02-14.51.38:369][249]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.05.02-14.51.38:369][249]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.05.02-14.51.38:369][249]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.05.02-14.51.38:369][249]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.05.02-14.51.38:369][249]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.05.02-14.51.38:369][249]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.05.02-14.51.38:369][249]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.05.02-14.51.38:369][249]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.05.02-14.51.38:369][249]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.05.02-14.51.38:369][249]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.05.02-14.51.38:369][249]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.05.02-14.51.38:369][249]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.05.02-14.51.38:369][249]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.05.02-14.51.38:369][249]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.05.02-14.51.38:369][249]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.05.02-14.51.38:369][249]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.05.02-14.51.38:369][249]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.05.02-14.51.38:369][249]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7D5A5C86-4B6C-4257-943D-D7A39460BE0C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=67c9bbc8454a316c0bad659b8bf33cc0%7C76c9fe623d364138b453ac6145ca3307%7C23d3bd01-f114-4f91-af2f-0866d1c7835a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.05.02-14.51.38:388][249]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.05.02-14.51.38:390][249]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.05.02-14.51.38:521][249]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.05.02-14.51.38:521][249]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.05.02-14.51.38:521][249]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.05.02-14.51.38:521][249]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.05.02-14.51.38:521][249]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.05.02-14.51.38:521][249]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.05.02-14.51.38:523][249]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.05.02-14.51.38:523][249]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.05.02-14.51.38:523][249]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.05.02-14.51.38:523][249]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.05.02-14.51.38:524][249]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.05.02-14.51.38:524][249]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.05.02-14.51.38:524][249]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.05.02-14.51.38:524][249]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.05.02-14.51.38:524][249]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.05.02-14.51.38:524][249]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.05.02-14.51.38:524][249]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.05.02-14.51.38:526][249]LogExit: Exiting.
+[2018.05.02-14.51.38:553][249]Log file closed, 05/02/18 10:51:38
